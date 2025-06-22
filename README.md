@@ -1,3 +1,6 @@
+
+# The Dojo ⛩️🥋☯
+
 This is my dedicated space for organizing all information related to charting. 
 
 - **Charting:** A collection of charts and representations of data I've created or come across.

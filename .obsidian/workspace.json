@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Synthetic Indices/Volatility 25 (1s) Index/24-06-25.md",
+                "file": "Synthetic Indices/Jump 10 Index/25-06-25.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "24-06-25"
+              "title": "25-06-25"
             }
           }
         ]
@@ -169,8 +169,13 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "ef46c1b2c9d14c9e",
+  "active": "6849bafa53b4c6cc",
   "lastOpenFiles": [
+    "Synthetic Indices/Volatility 25 (1s) Index/24-06-25.md",
+    "Synthetic Indices/Jump 10 Index/25-06-25.md",
+    "Synthetic Indices/Jump 10 Index",
+    "Synthetic Indices/Volatility 25 (1s) Index/attachments/Pasted image 20250625125551.png",
+    "Synthetic Indices/Volatility 25 (1s) Index/attachments",
     "Synthetic Indices/Volatility 25 (1s) Index",
     "Synthetic Indices/Volatility 10 Index/23-06-25.md",
     "Synthetic Indices/Volatility 25 Index/20-06-25.md",
@@ -179,7 +184,6 @@
     "Synthetic Indices/Volatility 10 (1s) Index/22-06-25.md",
     "Synthetic Indices/Volatility 10 Index/20-06-25.md",
     "Synthetic Indices/Volatility 10 Index/22-06-25.md",
-    "Synthetic Indices/Volatility 25 (1s) Index/24-06-25.md",
     "Synthetic Indices/attachments/Pasted image 20250624112259.png",
     "Synthetic Indices/attachments",
     "Synthetic Indices/Volatility 10 (1s) Index/attachments/Pasted image 20250624083724.png",
@@ -199,7 +203,6 @@
     "Synthetic Indices/Volatility 75 Index/attachments/Pasted image 20250623082614.png",
     "Synthetic Indices/Volatility 75 Index/attachments/Pasted image 20250623020445.png",
     "Synthetic Indices/Volatility 10 (1s) Index/attachments/Pasted image 20250622122319.png",
-    "Synthetic Indices/Volatility 10 (1s) Index/attachments/Pasted image 20250622121939.png",
     "Information/DAX/Liquidity.md",
     "Synthetic Indices/Volatility 10 (1s) Index/attachments",
     "Synthetic Indices/Volatility 10 (1s) Index",
@@ -207,9 +210,6 @@
     "Information/Lessons/2. PD Arrays/2. PD Arrays.md",
     "Information/README.md",
     "Synthetic Indices/Volatility 75 Index",
-    "Information/README.md~",
-    "Information/ICT Monthly Mentorship Notes/Month 6 Notes.pdf",
-    "Information/ICT Monthly Mentorship Notes/Month 4 Notes.pdf",
     "Information/DAX/Putting It All Together.md",
     "Information/DAX/Market Structure.md",
     "Alternative/Lessons/Liquidity.md",

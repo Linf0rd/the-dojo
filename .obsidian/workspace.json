@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Synthetic Indices/Volatility 10 (1s) Index/30-06-25.md",
+                "file": "Synthetic Indices/Volatility 25 Index/1-07-25.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "30-06-25"
+              "title": "1-07-25"
             }
           }
         ]
@@ -171,9 +171,12 @@
   },
   "active": "6849bafa53b4c6cc",
   "lastOpenFiles": [
+    "Synthetic Indices/Volatility 25 Index/attachments/Pasted image 20250701163841.png",
+    "Synthetic Indices/Volatility 25 Index/27-06-25.md",
+    "Synthetic Indices/Volatility 25 Index/1-07-25.md",
+    "Synthetic Indices/Volatility 10 (1s) Index/30-06-25.md",
     "Synthetic Indices/Volatility 10 (1s) Index/attachments/Pasted image 20250630110959.png",
     "Synthetic Indices/Volatility 10 (1s) Index/29-06-25.md",
-    "Synthetic Indices/Volatility 10 (1s) Index/30-06-25.md",
     "Synthetic Indices/Volatility 10 Index/30-06-25.md",
     "Synthetic Indices/Volatility 10 Index/attachments/Pasted image 20250630110831.png",
     "Synthetic Indices/Volatility 10 Index/29-06-25.md",
@@ -185,7 +188,6 @@
     "Synthetic Indices/Jump 10 Index/attachments/Pasted image 20250629085447.png",
     "Synthetic Indices/Jump 10 Index/27-06-25.md",
     "Synthetic Indices/Volatility 75 Index/27-06-25.md",
-    "Synthetic Indices/Volatility 25 Index/27-06-25.md",
     "Synthetic Indices/Jump 10 Index/25-06-25.md",
     "Synthetic Indices/Jump 10 Index/attachments/Pasted image 20250627121015.png",
     "Synthetic Indices/Jump 10 Index/attachments/Pasted image 20250627120436.png",
@@ -196,7 +198,6 @@
     "Synthetic Indices/Volatility 75 Index/23-06-25.md",
     "Synthetic Indices/Volatility 75 Index/22-06-25.md",
     "Synthetic Indices/Volatility 25 Index/22-06-25.md",
-    "Synthetic Indices/Volatility 25 Index/attachments/Pasted image 20250627070716.png",
     "Synthetic Indices/Volatility 25 (1s) Index/24-06-25.md",
     "Synthetic Indices/Volatility 10 Index/23-06-25.md",
     "Synthetic Indices/Jump 10 Index",
@@ -213,7 +214,6 @@
     "Synthetic Indices/DEX 600 UP Index/attachments",
     "Synthetic Indices/DEX 600 UP Index",
     "Synthetic Indices/DEX 600 UP Index.md",
-    "README.md",
     "Synthetic Indices/Volatility 10 (1s) Index/attachments",
     "Synthetic Indices/Volatility 10 (1s) Index",
     "Synthetic Indices/Volatility 75 Index/attachments"
